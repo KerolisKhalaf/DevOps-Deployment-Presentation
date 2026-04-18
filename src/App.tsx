@@ -35,7 +35,7 @@ function App() {
             <h3 className="text-2xl font-bold mb-4 text-blue-300">👥 DevOps Team Members</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3 max-w-3xl mx-auto mb-6">
               <div className="bg-gradient-to-r from-blue-600 to-blue-700 p-3 rounded-lg shadow-lg border-2 border-blue-400">
-                <span className="font-bold">👨‍💻 Kerolis Khalaf Shafik</span>
+                <span className="font-bold">👨‍💻 Ziad Yehia Ahmed</span>
               </div>
               <div className="bg-gradient-to-r from-blue-600 to-blue-700 p-3 rounded-lg shadow-lg border-2 border-blue-400">
                 <span className="font-bold">👨‍💻 Antonios Reda Milad</span>
@@ -47,7 +47,7 @@ function App() {
                 <span className="font-bold">👨‍💻 Yassin Wael Fawzy</span>
               </div>
               <div className="bg-gradient-to-r from-green-600 to-green-700 p-3 rounded-lg shadow-lg border-2 border-green-400 md:col-span-2">
-                <span className="font-bold">👨‍💻 Ziad Yehia Ahmed</span> <span className="text-yellow-200 text-sm">(Team Lead)</span>
+                <span className="font-bold">👨‍💻 Kerolis Khalaf Shafik</span> <span className="text-yellow-200 text-sm">(Team Lead)</span>
               </div>
             </div>
           </div>
