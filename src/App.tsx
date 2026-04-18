@@ -73,7 +73,7 @@ function App() {
               <p className="text-xs text-gray-400">CI/CD Pipeline</p>
             </div>
             <div className="bg-green-800/50 p-2 rounded-lg">
-              <p className="font-bold text-green-300">⚙️ Ansible</p>
+              <p className="font-bold text-green-300">⚙️ Ansible <p className="text-xs text-gray-400">Upcoming</p></p>
               <p className="text-xs text-gray-400">IaC Automation</p>
             </div>
           </div>
